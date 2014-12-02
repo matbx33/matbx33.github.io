@@ -52,7 +52,7 @@ h4 {
 }
 
 header {
-	background: #000 url('../img/header.jpg') no-repeat;
+	background: #000 url('http://img11.hostingpics.net/pics/406546header.jpg') no-repeat;
 	background-position: center top;
 	background-attachment: fixed;
 	min-height: 500px;
@@ -506,7 +506,7 @@ header {
 
 #footer-quote {
  	padding:40px 0;
- 	background: url('../img/footer.jpg') no-repeat center bottom #000;
+ 	background: url('http://img11.hostingpics.net/pics/259770footer.jpg') no-repeat center bottom #000;
  	background-attachment: fixed;
  	text-align: center;
  	position: relative;
